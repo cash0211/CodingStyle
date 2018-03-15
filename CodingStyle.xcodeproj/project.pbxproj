@@ -34,16 +34,16 @@
 		C92F1740205A4DF300426700 /* XXInteractionNotificationLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1736205A4DF300426700 /* XXInteractionNotificationLayout.m */; };
 		C92F1741205A4DF300426700 /* XXInteractionNotificationCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1739205A4DF300426700 /* XXInteractionNotificationCell.m */; };
 		C92F1742205A4DF300426700 /* XXPraiseDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F173C205A4DF300426700 /* XXPraiseDetailViewController.m */; };
-		C92F174B205A4ECE00426700 /* XXBannerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1748205A4ECE00426700 /* XXBannerModel.m */; };
-		C92F174C205A4ECE00426700 /* XXBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F174A205A4ECE00426700 /* XXBannerView.m */; };
-		C92F1755205A4ED600426700 /* XXRecommendModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F174D205A4ED600426700 /* XXRecommendModel.m */; };
-		C92F1756205A4ED600426700 /* XXRecommendCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F174E205A4ED600426700 /* XXRecommendCell.m */; };
-		C92F1757205A4ED600426700 /* XXRecommendView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1751205A4ED600426700 /* XXRecommendView.m */; };
-		C92F1758205A4ED600426700 /* XXRecommendCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1752205A4ED600426700 /* XXRecommendCollectionView.m */; };
-		C92F1761205A4EDC00426700 /* XXMyFollowAndHotCircleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F175C205A4EDC00426700 /* XXMyFollowAndHotCircleCell.m */; };
-		C92F1762205A4EDC00426700 /* XXHotModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F175D205A4EDC00426700 /* XXHotModel.m */; };
-		C92F1763205A4EDC00426700 /* XXMyFollowAndHotCircleInnerTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F175F205A4EDC00426700 /* XXMyFollowAndHotCircleInnerTopView.m */; };
-		C92F1764205A4EDC00426700 /* XXMyFollowAndHotCircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1760205A4EDC00426700 /* XXMyFollowAndHotCircleView.m */; };
+		C92F1769205A59CA00426700 /* XXBannerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1766205A59CA00426700 /* XXBannerModel.m */; };
+		C92F176A205A59CA00426700 /* XXBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1767205A59CA00426700 /* XXBannerView.m */; };
+		C92F177F205A5A1600426700 /* XXRecommendModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1778205A5A1600426700 /* XXRecommendModel.m */; };
+		C92F1780205A5A1600426700 /* XXRecommendCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1779205A5A1600426700 /* XXRecommendCell.m */; };
+		C92F1781205A5A1600426700 /* XXRecommendView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F177A205A5A1600426700 /* XXRecommendView.m */; };
+		C92F1782205A5A1600426700 /* XXRecommendCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F177E205A5A1600426700 /* XXRecommendCollectionView.m */; };
+		C92F178B205A5A1F00426700 /* XXHotModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1783205A5A1F00426700 /* XXHotModel.m */; };
+		C92F178C205A5A1F00426700 /* XXMyFollowAndHotCircleInnerTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1786205A5A1F00426700 /* XXMyFollowAndHotCircleInnerTopView.m */; };
+		C92F178D205A5A1F00426700 /* XXMyFollowAndHotCircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F1787205A5A1F00426700 /* XXMyFollowAndHotCircleView.m */; };
+		C92F178E205A5A1F00426700 /* XXMyFollowAndHotCircleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C92F178A205A5A1F00426700 /* XXMyFollowAndHotCircleCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,26 +100,26 @@
 		C92F173B205A4DF300426700 /* XXInteractionNotificationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXInteractionNotificationViewController.h; sourceTree = "<group>"; };
 		C92F173C205A4DF300426700 /* XXPraiseDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXPraiseDetailViewController.m; sourceTree = "<group>"; };
 		C92F173D205A4DF300426700 /* XXPraiseDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXPraiseDetailViewController.h; sourceTree = "<group>"; };
-		C92F1747205A4ECE00426700 /* XXBannerModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXBannerModel.h; sourceTree = "<group>"; };
-		C92F1748205A4ECE00426700 /* XXBannerModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXBannerModel.m; sourceTree = "<group>"; };
-		C92F1749205A4ECE00426700 /* XXBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXBannerView.h; sourceTree = "<group>"; };
-		C92F174A205A4ECE00426700 /* XXBannerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXBannerView.m; sourceTree = "<group>"; };
-		C92F174D205A4ED600426700 /* XXRecommendModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXRecommendModel.m; sourceTree = "<group>"; };
-		C92F174E205A4ED600426700 /* XXRecommendCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXRecommendCell.m; sourceTree = "<group>"; };
-		C92F174F205A4ED600426700 /* XXRecommendModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXRecommendModel.h; sourceTree = "<group>"; };
-		C92F1750205A4ED600426700 /* XXRecommendView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXRecommendView.h; sourceTree = "<group>"; };
-		C92F1751205A4ED600426700 /* XXRecommendView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXRecommendView.m; sourceTree = "<group>"; };
-		C92F1752205A4ED600426700 /* XXRecommendCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXRecommendCollectionView.m; sourceTree = "<group>"; };
-		C92F1753205A4ED600426700 /* XXRecommendCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXRecommendCell.h; sourceTree = "<group>"; };
-		C92F1754205A4ED600426700 /* XXRecommendCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXRecommendCollectionView.h; sourceTree = "<group>"; };
-		C92F1759205A4EDC00426700 /* XXMyFollowAndHotCircleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXMyFollowAndHotCircleCell.h; sourceTree = "<group>"; };
-		C92F175A205A4EDC00426700 /* XXMyFollowAndHotCircleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXMyFollowAndHotCircleView.h; sourceTree = "<group>"; };
-		C92F175B205A4EDC00426700 /* XXHotModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXHotModel.h; sourceTree = "<group>"; };
-		C92F175C205A4EDC00426700 /* XXMyFollowAndHotCircleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXMyFollowAndHotCircleCell.m; sourceTree = "<group>"; };
-		C92F175D205A4EDC00426700 /* XXHotModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXHotModel.m; sourceTree = "<group>"; };
-		C92F175E205A4EDC00426700 /* XXMyFollowAndHotCircleInnerTopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXMyFollowAndHotCircleInnerTopView.h; sourceTree = "<group>"; };
-		C92F175F205A4EDC00426700 /* XXMyFollowAndHotCircleInnerTopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXMyFollowAndHotCircleInnerTopView.m; sourceTree = "<group>"; };
-		C92F1760205A4EDC00426700 /* XXMyFollowAndHotCircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXMyFollowAndHotCircleView.m; sourceTree = "<group>"; };
+		C92F1765205A59CA00426700 /* XXBannerModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXBannerModel.h; sourceTree = "<group>"; };
+		C92F1766205A59CA00426700 /* XXBannerModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXBannerModel.m; sourceTree = "<group>"; };
+		C92F1767205A59CA00426700 /* XXBannerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXBannerView.m; sourceTree = "<group>"; };
+		C92F1768205A59CA00426700 /* XXBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXBannerView.h; sourceTree = "<group>"; };
+		C92F1777205A5A1600426700 /* XXRecommendCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXRecommendCollectionView.h; sourceTree = "<group>"; };
+		C92F1778205A5A1600426700 /* XXRecommendModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXRecommendModel.m; sourceTree = "<group>"; };
+		C92F1779205A5A1600426700 /* XXRecommendCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXRecommendCell.m; sourceTree = "<group>"; };
+		C92F177A205A5A1600426700 /* XXRecommendView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXRecommendView.m; sourceTree = "<group>"; };
+		C92F177B205A5A1600426700 /* XXRecommendCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXRecommendCell.h; sourceTree = "<group>"; };
+		C92F177C205A5A1600426700 /* XXRecommendModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXRecommendModel.h; sourceTree = "<group>"; };
+		C92F177D205A5A1600426700 /* XXRecommendView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXRecommendView.h; sourceTree = "<group>"; };
+		C92F177E205A5A1600426700 /* XXRecommendCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXRecommendCollectionView.m; sourceTree = "<group>"; };
+		C92F1783205A5A1F00426700 /* XXHotModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXHotModel.m; sourceTree = "<group>"; };
+		C92F1784205A5A1F00426700 /* XXMyFollowAndHotCircleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXMyFollowAndHotCircleCell.h; sourceTree = "<group>"; };
+		C92F1785205A5A1F00426700 /* XXMyFollowAndHotCircleInnerTopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXMyFollowAndHotCircleInnerTopView.h; sourceTree = "<group>"; };
+		C92F1786205A5A1F00426700 /* XXMyFollowAndHotCircleInnerTopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXMyFollowAndHotCircleInnerTopView.m; sourceTree = "<group>"; };
+		C92F1787205A5A1F00426700 /* XXMyFollowAndHotCircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXMyFollowAndHotCircleView.m; sourceTree = "<group>"; };
+		C92F1788205A5A1F00426700 /* XXHotModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXHotModel.h; sourceTree = "<group>"; };
+		C92F1789205A5A1F00426700 /* XXMyFollowAndHotCircleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XXMyFollowAndHotCircleView.h; sourceTree = "<group>"; };
+		C92F178A205A5A1F00426700 /* XXMyFollowAndHotCircleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XXMyFollowAndHotCircleCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,10 +246,10 @@
 		C92F1744205A4E1D00426700 /* XXBanner */ = {
 			isa = PBXGroup;
 			children = (
-				C92F1747205A4ECE00426700 /* XXBannerModel.h */,
-				C92F1748205A4ECE00426700 /* XXBannerModel.m */,
-				C92F1749205A4ECE00426700 /* XXBannerView.h */,
-				C92F174A205A4ECE00426700 /* XXBannerView.m */,
+				C92F1765205A59CA00426700 /* XXBannerModel.h */,
+				C92F1766205A59CA00426700 /* XXBannerModel.m */,
+				C92F1768205A59CA00426700 /* XXBannerView.h */,
+				C92F1767205A59CA00426700 /* XXBannerView.m */,
 			);
 			path = XXBanner;
 			sourceTree = "<group>";
@@ -257,14 +257,14 @@
 		C92F1745205A4E2A00426700 /* XXMyFollowAndHotCircle */ = {
 			isa = PBXGroup;
 			children = (
-				C92F175B205A4EDC00426700 /* XXHotModel.h */,
-				C92F175D205A4EDC00426700 /* XXHotModel.m */,
-				C92F1759205A4EDC00426700 /* XXMyFollowAndHotCircleCell.h */,
-				C92F175C205A4EDC00426700 /* XXMyFollowAndHotCircleCell.m */,
-				C92F175E205A4EDC00426700 /* XXMyFollowAndHotCircleInnerTopView.h */,
-				C92F175F205A4EDC00426700 /* XXMyFollowAndHotCircleInnerTopView.m */,
-				C92F175A205A4EDC00426700 /* XXMyFollowAndHotCircleView.h */,
-				C92F1760205A4EDC00426700 /* XXMyFollowAndHotCircleView.m */,
+				C92F1788205A5A1F00426700 /* XXHotModel.h */,
+				C92F1783205A5A1F00426700 /* XXHotModel.m */,
+				C92F1784205A5A1F00426700 /* XXMyFollowAndHotCircleCell.h */,
+				C92F178A205A5A1F00426700 /* XXMyFollowAndHotCircleCell.m */,
+				C92F1785205A5A1F00426700 /* XXMyFollowAndHotCircleInnerTopView.h */,
+				C92F1786205A5A1F00426700 /* XXMyFollowAndHotCircleInnerTopView.m */,
+				C92F1789205A5A1F00426700 /* XXMyFollowAndHotCircleView.h */,
+				C92F1787205A5A1F00426700 /* XXMyFollowAndHotCircleView.m */,
 			);
 			path = XXMyFollowAndHotCircle;
 			sourceTree = "<group>";
@@ -272,14 +272,14 @@
 		C92F1746205A4E3A00426700 /* XXRecommend */ = {
 			isa = PBXGroup;
 			children = (
-				C92F174F205A4ED600426700 /* XXRecommendModel.h */,
-				C92F174D205A4ED600426700 /* XXRecommendModel.m */,
-				C92F1753205A4ED600426700 /* XXRecommendCell.h */,
-				C92F174E205A4ED600426700 /* XXRecommendCell.m */,
-				C92F1754205A4ED600426700 /* XXRecommendCollectionView.h */,
-				C92F1752205A4ED600426700 /* XXRecommendCollectionView.m */,
-				C92F1750205A4ED600426700 /* XXRecommendView.h */,
-				C92F1751205A4ED600426700 /* XXRecommendView.m */,
+				C92F177C205A5A1600426700 /* XXRecommendModel.h */,
+				C92F1778205A5A1600426700 /* XXRecommendModel.m */,
+				C92F177B205A5A1600426700 /* XXRecommendCell.h */,
+				C92F1779205A5A1600426700 /* XXRecommendCell.m */,
+				C92F1777205A5A1600426700 /* XXRecommendCollectionView.h */,
+				C92F177E205A5A1600426700 /* XXRecommendCollectionView.m */,
+				C92F177D205A5A1600426700 /* XXRecommendView.h */,
+				C92F177A205A5A1600426700 /* XXRecommendView.m */,
 			);
 			path = XXRecommend;
 			sourceTree = "<group>";
@@ -355,40 +355,40 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C92F178E205A5A1F00426700 /* XXMyFollowAndHotCircleCell.m in Sources */,
 				C91518A5205A4BE000D8874F /* NSObject+YYModel.m in Sources */,
-				C92F1763205A4EDC00426700 /* XXMyFollowAndHotCircleInnerTopView.m in Sources */,
 				C915186C205A4B8900D8874F /* ViewController.m in Sources */,
-				C92F1756205A4ED600426700 /* XXRecommendCell.m in Sources */,
+				C92F178C205A5A1F00426700 /* XXMyFollowAndHotCircleInnerTopView.m in Sources */,
+				C92F1780205A5A1600426700 /* XXRecommendCell.m in Sources */,
+				C92F178B205A5A1F00426700 /* XXHotModel.m in Sources */,
 				C91518A7205A4BE000D8874F /* YYWeakProxy.m in Sources */,
 				C91518AA205A4BE000D8874F /* NSNumber+YYAdd.m in Sources */,
-				C92F1758205A4ED600426700 /* XXRecommendCollectionView.m in Sources */,
+				C92F1782205A5A1600426700 /* XXRecommendCollectionView.m in Sources */,
 				C92F1741205A4DF300426700 /* XXInteractionNotificationCell.m in Sources */,
 				C91518AB205A4BE000D8874F /* NSObject+YYAdd.m in Sources */,
 				C91518A0205A4BE000D8874F /* NSString+YYAdd.m in Sources */,
-				C92F1755205A4ED600426700 /* XXRecommendModel.m in Sources */,
+				C92F177F205A5A1600426700 /* XXRecommendModel.m in Sources */,
 				C92F173E205A4DF300426700 /* XXInteractionNotificationViewController.m in Sources */,
+				C92F178D205A5A1F00426700 /* XXMyFollowAndHotCircleView.m in Sources */,
 				C91518AE205A4BE000D8874F /* YYCGUtilities.m in Sources */,
-				C92F1764205A4EDC00426700 /* XXMyFollowAndHotCircleView.m in Sources */,
 				C9151877205A4B8900D8874F /* main.m in Sources */,
 				C91518A8205A4BE000D8874F /* CALayer+YYAdd.m in Sources */,
-				C92F1757205A4ED600426700 /* XXRecommendView.m in Sources */,
+				C92F1781205A5A1600426700 /* XXRecommendView.m in Sources */,
 				C9151869205A4B8900D8874F /* AppDelegate.m in Sources */,
 				C91518A2205A4BE000D8874F /* NSDictionary+YYAdd.m in Sources */,
 				C91518AC205A4BE000D8874F /* NSData+YYAdd.m in Sources */,
 				C91518A3205A4BE000D8874F /* UIColor+YYAdd.m in Sources */,
-				C92F1762205A4EDC00426700 /* XXHotModel.m in Sources */,
 				C92F1742205A4DF300426700 /* XXPraiseDetailViewController.m in Sources */,
-				C92F174C205A4ECE00426700 /* XXBannerView.m in Sources */,
+				C92F176A205A59CA00426700 /* XXBannerView.m in Sources */,
 				C91518AF205A4BE000D8874F /* YYClassInfo.m in Sources */,
 				C91518A1205A4BE000D8874F /* NSDate+YYAdd.m in Sources */,
 				C91518A6205A4BE000D8874F /* UIView+YYAdd.m in Sources */,
 				C91518A4205A4BE000D8874F /* UIDevice+YYAdd.m in Sources */,
 				C91518A9205A4BE000D8874F /* UIControl+YYAdd.m in Sources */,
 				C91518AD205A4BE000D8874F /* NSArray+YYAdd.m in Sources */,
-				C92F1761205A4EDC00426700 /* XXMyFollowAndHotCircleCell.m in Sources */,
 				C92F173F205A4DF300426700 /* XXInteractionNotification.m in Sources */,
 				C92F1740205A4DF300426700 /* XXInteractionNotificationLayout.m in Sources */,
-				C92F174B205A4ECE00426700 /* XXBannerModel.m in Sources */,
+				C92F1769205A59CA00426700 /* XXBannerModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
